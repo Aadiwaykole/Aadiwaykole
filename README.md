@@ -8,7 +8,7 @@
 
 🎓 4th Year BE (AI & ML) Student
 💡 Passionate about building real-world applications
-📚 Currently learning Machine Learning & MERN Stack Development
+📚 Currently learning  MERN Stack Development
 💻 DSA Enthusiast (C++)
 🔥 Always exploring new technologies and improving skills
 
