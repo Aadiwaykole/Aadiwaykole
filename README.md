@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Aditya Waykole
 
-### 💻 Aspiring Full-Stack Developer 
+### Full-Stack Developer 
+mern stack 
 
 ---
 
