@@ -5,7 +5,7 @@ mern stack
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
 🎓 4th Year BE (AI & ML) Student
 💡 Passionate about building real-world applications
